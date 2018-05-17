@@ -1,6 +1,6 @@
 # client-server
 
-This is a group project of course KT24403 Operating System.
+This is a group project for course Operating System.
 
 Write a server using the Java networking API. 
 This server will wait for a client connection using the accept() method.
